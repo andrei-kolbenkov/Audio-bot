@@ -11,7 +11,7 @@ from deep_translator import GoogleTranslator
 
 
 
-bot = Bot(token="7305513004:AAFDw3aXhZ_JxKQUy6bItbavvyNaYL2pS6c")
+bot = Bot(token="")
 dp = Dispatcher(bot)
 
 
