@@ -1,7 +1,6 @@
 # pip install aiogram
 # pip install gTTS
-# pip install deep-translator
-# root@45.135.234.66
+# pip install deep-translator
 # nohup python3 audio_bot.py &
 # sudo ps aux | grep python
 
